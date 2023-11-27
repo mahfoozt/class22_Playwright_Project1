@@ -1,4 +1,4 @@
-package testCases_Alert_advance;
+package testCases_Alert_adv;
 
 import java.nio.file.Paths;
 

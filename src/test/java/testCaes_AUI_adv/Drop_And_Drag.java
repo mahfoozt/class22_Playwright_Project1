@@ -1,4 +1,4 @@
-package testCaes_AUI_advance;
+package testCaes_AUI_adv;
 
 import java.nio.file.Paths;
 
